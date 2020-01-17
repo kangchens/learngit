@@ -37,6 +37,7 @@
                     left: 0;
                     height: 0;
                     width: 100%;
+                    
                     border: 1px solid rgb(143, 216, 33);
                 }
             }
