@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: PingFangSC-Regular;
+    font-size: calc(100vw / 20) ;
+    box-sizing: border-box;
+    color: #4A4A4A;
+}
+.turn-left {
+    float: left;
+}
+.turn-right {
+    float: right;
+}
+.clearboth:after {
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+}
+ul,
+ul li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+textarea,input,select,button{
+    outline: none;
+}
